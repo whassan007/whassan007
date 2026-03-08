@@ -2,11 +2,11 @@
 whassan007/whassan007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Dr. Waël Hassan's Insights Repository
+# Dr. Waël Insights Repository
 
 Welcome to the GitHub repository dedicated to applying Dr. Waël Hassan's extensive knowledge on privacy, healthcare, and data science to practical, open-source projects. Dr. Hassan, through his website waelhassan.com, shares profound insights on various topics including privacy in design, social media data utilization, healthcare advancements through machine learning, and much more.
 
-## About Dr. Waël Hassan
+## About Dr. Waël 
 
 Dr. Waël Hassan is a leading expert in privacy, data protection, and the utilization of big data for positive societal impacts. His work spans multiple domains, including privacy law compliance, the ethical use of artificial intelligence, and the digital transformation of healthcare.
 

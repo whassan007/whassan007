@@ -1,41 +1,86 @@
-<!---
-whassan007/whassan007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# Dr. Waël Insights Repository
+# Hi, I'm Waël Hassan, Ph.D. 👋
 
-Welcome to the GitHub repository dedicated to applying Dr. Waël  extensive knowledge on privacy, healthcare, and data science to practical, open-source projects. Dr. Hassan, through his website wael.bot, shares profound insights on various topics including privacy in design, social media data utilization, healthcare advancements through machine learning, and much more.
+**Engineering Leader · Safety-Critical ML Systems · Autonomous Vehicles · AI Safety**
 
-## About Dr. Waël 
+📍 California &nbsp;|&nbsp; 🌐 [wael.bot](https://wael.bot) &nbsp;|&nbsp; 📧 stfranciscowael@gmail.com
 
-Dr. Waël Hassan is a leading expert in privacy, data protection, and the utilization of big data for positive societal impacts. His work spans multiple domains, including privacy law compliance, the ethical use of artificial intelligence, and the digital transformation of healthcare.
+---
 
-## Project Goals
+## About Me
 
-This repository aims to:
+I'm an engineering leader with **15+ years** building safety-critical ML systems at scale. My work spans autonomous vehicle perception, risk-aware model deployment, and eval-driven ML infrastructure — from L4 robotaxi fleets to ML platforms serving 50M+ users.
 
-- **Implement Privacy by Design**: Drawing from Dr.  practical guides, we aim to integrate privacy and security into the development of applications from the ground up.
-- **Leverage Social Media Data Ethically**: Inspired by Dr.  steps for engaging with social media data, our projects will responsibly use this data to benefit consumers while upholding their privacy rights.
-- **Advance Healthcare with Machine Learning**: Reflecting on Dr.  insights on machine learning in healthcare, we will explore projects that aim to improve patient privacy and data security in healthcare applications.
-- **Address Digital Healthcare Challenges**: In line with Dr.  discussion at the Digital Hospital of the Future conference, our projects will also tackle the challenges of digital transformation in healthcare, aiming for better data protection and mobile health solutions.
+Currently at **Zoox / Amazon** leading Perception ML Systems for a full L4 autonomous vehicle deployment. Previously at **Google** and founder/CTO of **KI Design LLC**, a consultancy delivering ML and data infrastructure for Fortune 1000 companies across safety-regulated industries.
 
-## Contributing
+I hold a **Ph.D. in Automated Systems Validation** from the University of Ottawa and am deeply invested in the intersection of rigorous evaluation methodology, safety engineering, and real-world AI deployment.
 
-We welcome contributions from anyone interested in advancing privacy, healthcare, and data science in alignment with Dr. Waël  insights. Whether you're a coder, a data scientist, a healthcare professional, or simply passionate about privacy and ethics in technology, your input is valuable.
+---
 
-### How to Contribute
+## 🛠 Technical Expertise
 
-1. **Familiarize Yourself with Dr.  Work**: Visit [wael.bot](https://wael.bot) to get an in-depth understanding of the themes our projects are based on.
-2. **Review Open Issues**: Check our issues tab for ongoing discussions or tasks. Feel free to comment or offer solutions.
-3. **Propose New Ideas**: Have a project idea inspired by Dr.  work? Open a new issue to start the discussion.
-4. **Code Contributions**: Submit pull requests with your contributions. Please ensure your code aligns with our project goals and adheres to privacy by design principles.
+**Safety & Risk**
+`Safety-Critical ML` `Risk-Gated Model Deployment` `In-Field Safety Regression Detection` `Failure Mode Analysis` `Edge Case Risk Coverage`
 
-## Resources
+**Eval & Hill Climbing**
+`Eval Framework Design` `Hill Climbing Methodology` `Sim-to-Real Gap Analysis` `Launch Readiness Assessment` `Model Regression Benchmarking`
 
-- [Privacy in Design: A Practical Guide to Corporate Compliance](https://wael.bot) by Dr. Waël Hassan
-- [Engaging with Social Media Data](https://wael.bot/4-steps-take-engaging-social-media-data/)
-- [Machine Learning Advances in Healthcare](https://wael.bot/machine-learning-healthcare/)
+**ML & Perception**
+`Model Deployment Pipelines` `Automated Data Selection` `Triage Clustering` `Anomaly Detection` `PyTorch`
 
-## Contact
+**Engineering**
+`Python` `C++` `TypeScript` `JavaScript` `Real-Time Systems` `Scalable ML Infrastructure`
 
-For more information or specific queries related to this repository, please reach out to the maintainers or directly engage with the community on our issues page.
+---
+
+## 💼 Career Highlights
+
+| Role | Organization | Years |
+|------|-------------|-------|
+| Engineering Lead – Perception ML Systems | Zoox / Amazon | 2024 – Present |
+| Engineering Manager – ML Systems | Google | 2022 – 2024 |
+| CTO & Founder | KI Design LLC | 2012 – 2022 |
+| Technical Lead | eHealth | 2009 – 2012 |
+
+**Key achievements:**
+- Architected a safety-critical data pipeline analyzing **50M+ sensor points/day** across Zoox's robotaxi fleet, accelerating the hill climbing feedback loop via semantic failure clustering
+- Built Ads Guardian at Google — an ML-powered safety monitoring system that reduced safety-related incidents by **30%** through automated regression evaluation
+- Designed Dynamic Risk Manager with deep learning for real-time risk detection, reducing assessment time by **40%**
+- Scaled KI Design LLC to **$100M+ revenue** delivering risk-aware ML solutions for Fortune 1000 clients in energy and healthcare
+
+---
+
+## 🚀 Featured Projects
+
+### 🚗 [SurrogateSafetyMeasures](https://github.com/whassan007/SurrogateSafetyMeasures)
+Quantifiable metrics for evaluating traffic facility safety by analyzing observable conflict events. Directly relevant to AV safety evaluation methodology.
+
+### ⚖️ [RideCoRiskFair](https://github.com/whassan007/RideCoRiskFair)
+Comprehensive risk analysis of RideCo's safety features using the **FAIR methodology** — demonstrates structured risk quantification for mobility-as-a-service platforms. `Python`
+
+### 🤖 [nemo-studio-ui](https://github.com/whassan007/nemo-studio-ui)
+React-based educational tool for **NVIDIA NeMo's** data management workflows. Bridges ML data tooling with accessible UI. `Jupyter Notebook`
+
+### 📄 [regentic](https://github.com/whassan007/regentic)
+Legal document analysis and compliance validation tool — applying ML to safety-regulated document review. `JavaScript`
+
+### 🔐 [RSM](https://github.com/whassan007/RSM)
+Automated Secrecy Model Transformation with Validation — privacy and security model automation. `Python`
+
+### 💹 [AdsFraudTF](https://github.com/whassan007/AdsFraudTF)
+Generic ML model for detecting ads fraud — complements my Google-era work on risk signal detection and eval-driven safety systems.
+
+---
+
+## 🎓 Education
+
+- **Ph.D., Automated Systems Validation** — University of Ottawa, 2009
+- **M.C.S., Automated Analysis** — Concordia University, 2000
+- **B.C.S., Computer Science** — Lebanese American University, 1996
+
+---
+
+## 📫 Let's Connect
+
+If you're working on **safety-critical AI**, **autonomous systems**, or **ML evaluation infrastructure**, I'd love to connect.
+
+🌐 [wael.bot](https://wael.bot) &nbsp;·&nbsp; 📧 stfranciscowael@gmail.com

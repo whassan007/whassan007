@@ -32,22 +32,7 @@ I hold a **Ph.D. in Automated Systems Validation** from the University of Ottawa
 
 ---
 
-## 💼 Career Highlights
 
-| Role | Organization | Years |
-|------|-------------|-------|
-| Engineering Lead – Perception ML Systems | Zoox / Amazon | 2024 – Present |
-| Engineering Manager – ML Systems | Google | 2022 – 2024 |
-| CTO & Founder | KI Design LLC | 2012 – 2022 |
-| Technical Lead | eHealth | 2009 – 2012 |
-
-**Key achievements:**
-- Architected a safety-critical data pipeline analyzing **50M+ sensor points/day** across Zoox's robotaxi fleet, accelerating the hill climbing feedback loop via semantic failure clustering
-- Built Ads Guardian at Google — an ML-powered safety monitoring system that reduced safety-related incidents by **30%** through automated regression evaluation
-- Designed Dynamic Risk Manager with deep learning for real-time risk detection, reducing assessment time by **40%**
-- Scaled KI Design LLC to **$100M+ revenue** delivering risk-aware ML solutions for Fortune 1000 clients in energy and healthcare
-
----
 
 ## 🚀 Featured Projects
 
